@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Ali Alsudani, Sinan Aldulaimi, Ammmar Alnqeeb, Iman Alghanimi,  March 2023
+ * @author Ammmar Alnqeeb,Ali Alsudani,Sinan Aldulaimi,Iman Alghanimi,  March 2023
  */
 public class Main {
 
